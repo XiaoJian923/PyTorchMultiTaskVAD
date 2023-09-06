@@ -2,7 +2,7 @@
 ### Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, Mubarak Shah
 ### IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 # 说明：该文的PyTorch实现
-	原文代码是TensorFlow版本，此PyTorch版本是依据原作者分享的源码所改；附environment.yaml文件为torch版本的选择提供参考
+	原文代码是TensorFlow版本，此PyTorch版本是依据原作者分享的源码所改；附environment.yaml文件为torch版本的选择提供参考；此README文件的其余部分，为原作者所作，笔者（XJ）未对其进行删改
 
 ### Required libraries
 - tested with Python 3.6 and 3.7
